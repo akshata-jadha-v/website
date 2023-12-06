@@ -79,7 +79,7 @@ It's like having a section where you explain what certain words mean.
 For example:
 1) HTML is like the structure of your notebook; it helps organize things.
 
-2)CSS is like adding cool colors and styles to your notebook.
+2) CSS is like adding cool colors and styles to your notebook.
 
 3) JavaScript is like giving your notebook superpowers, making it do fun things.
 
