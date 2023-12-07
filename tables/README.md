@@ -47,7 +47,7 @@ Imagine you're creating a page for your very own store on the internet. It's lik
 
 Here's what each part means:
 
-#### <html> and <head>:
+#### html and head:
 
 These are like the main parts of your secret code. Think of <html> as the big box containing everything, and <head> as a section where you put important information about your page.
 
