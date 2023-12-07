@@ -51,31 +51,31 @@ Here's what each part means:
 
 These are like the main parts of your secret code. Think of <html> as the big box containing everything, and <head> as a section where you put important information about your page.
 
-#### <title>:
+#### title:
 
 This is like the name of your webpage. In this example, it's "My first website." It's what people see at the top of their browser when they visit your store.
 
-#### <body>:
+#### body:
 
 This is where the fun happens! It's like the main area of your page, where you put all the things you want people to see.
 
-#### <h3>:
+#### h3:
 
 This is a heading, like a big title. Here, it says "Store hours," so people know they're about to see when the store is open.
 
-#### <table>:
+#### table:
 
 Imagine a table like a grid, with rows and columns. It's a neat way to organize information. This table is where we'll put our store hours.
 
-#### <tr>:
+#### tr:
 
 This is a table row. It's like a horizontal line in the grid. Our table has two rows - one for the days of the week and one for the store's open or closed times.
 
-#### <th>:
+#### th:
 
 This stands for table header. It's like the titles for each column. We have days of the week as titles for each column.
 
-#### <td>:
+#### td:
 
 This stands for table data. It's like the information in each cell of the grid. We use it to say if the store is open, closed, or what time it opens and closes.
 
@@ -83,7 +83,7 @@ This stands for table data. It's like the information in each cell of the grid. 
 
 These are like special commands to color the background of the table and set its width. It makes the store hours look more exciting.
 
-#### <align>:
+#### align:
 
 This helps center the information in the cells (like "Closed" or "9-5").
 
