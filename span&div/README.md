@@ -44,11 +44,11 @@
 
 ## Documentation
 
-#### Document Type Declaration (<!DOCTYPE html>):
+#### Document Type Declaration:
 
 * This tells the browser that the document is written in HTML5, the latest version of HTML.
 
-#### HTML Structure (<html>, <head>, <title>, <body>):
+#### HTML Structure:
 
 * The main structure of an HTML document.
 
@@ -56,19 +56,19 @@
 
 * <body> is where the content of the webpage goes.
 
-#### Headings (<h1>):
+#### Headings:
 
 * A big heading saying "Hello!" at the top of your webpage. It's like a friendly welcome sign.
 
-#### Magic Box (<div> with background color):
+#### Magic Box:
 
 * A special box with a dark background (#444444). It's like a magical area on your webpage where you can do special things.
 
-#### Paragraphs (<p>):
+#### Paragraphs:
 
 * Regular paragraphs telling a story inside the magic box. Each <p> is like a different part of the story.
 
-#### Special Words (<span> with red color):
+#### Special Words:
 
 * Inside the second paragraph, there's a special word in bright red. It's like a secret code that stands out from the rest of the text.
 
