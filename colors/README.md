@@ -1,5 +1,9 @@
 
+
 # Color Element in HTML
+
+
+
 
 ## Usage/Examples
 
@@ -26,29 +30,29 @@
 
 ## Documentation
 
-#### Document Type Declaration (<!DOCTYPE html>):
+#### Document Type Declaration (!DOCTYPE html):
 
 This tells the browser that the document is written in HTML5, the latest version of HTML.
 
-#### HTML Structure (<html>, <head>, <title>, <body>):
+#### HTML Structure (html, head, title, body):
 
 * The main structure of an HTML document.
 
-* <head> contains information about the webpage, and <title> sets the title displayed in the browser tab.
+* head contains information about the webpage, and title sets the title displayed in the browser tab.
 
-* <body> is where the content of the webpage goes.
+* body is where the content of the webpage goes.
 
 #### Background Color (style="background-color: black;"):
 
 * The whole webpage has a black background. The style attribute is like giving the webpage some special looks.
 
-#### Headings (<h1>):
+#### Headings (h1):
 
 * Three big headings saying "Hello!" in different colors.
 
 * The first is red (style="color: red;"), the second is a nice shade of green (style="color: rgb(112, 186, 123);"), and the third is a special kind of green (style="color: #45523d;").
 
-#### Paragraph (<p>):
+#### Paragraph (p):
 
 * A paragraph (text box) with a background color (style="background-color: #45523d;") of a specific green and white text color (style="color: aliceblue;").
 
